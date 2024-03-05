@@ -1,1 +1,16 @@
 /* Write your CSS here! */
+#mainHeading{
+    color: blueviolet;
+}
+
+body{
+margin: 8px;
+display:block;
+padding:28px;
+}
+
+.funParagraph{
+    background-color: brown;
+    color:aqua;
+    border: 16px solid white;
+}
